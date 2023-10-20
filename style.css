@@ -1,0 +1,7 @@
+.Title20px{
+	width: 100%;
+	background-color:#efefef;
+  display: flex;
+	justify-content: center;
+  font-size: 10px;
+}
