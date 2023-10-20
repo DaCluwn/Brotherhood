@@ -19,6 +19,7 @@ window.onload = async function displayCharacterInfo(){
 async function FetchData(dataset,index){
     try {
         await fetch("../"+dataset).then(response => {if (!response.ok) { throw new Error("HTTP error " + response.status);}return response.json();}).then(json => {data = json[index];})
+        console.log(data)
     }catch (e) {
         console.error(e,e.stack);
     }
