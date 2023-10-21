@@ -1,4 +1,4 @@
-var data
+var data={name:"Test",race:"Test"}
 
 window.onload = async function displayCharacterInfo(){
     const urlParams = new URLSearchParams(window.location.search);  

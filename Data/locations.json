@@ -1,3 +1,5 @@
 [
-    {"loc_name":"Murder Avenue Slum","type":1, "influencing_factions":[2]}
+    {"loc_name":"Mace Alley Slum","type":1,"influence":0,"district":1,"poi":"none"},
+    {"loc_name":"Assassin's Alley Slum","type":1,"influence":0,"district":1,"poi":"none"},
+    {"loc_name":"Knoll Close Slum","type":1,"influence":0,"district":1,"poi":"none"}
 ]   
