@@ -76,3 +76,8 @@ td {
   text-align: center;
 }
 
+a { 
+  white-space: nowrap;
+  display: inline-block;
+}
+
