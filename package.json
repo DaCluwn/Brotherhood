@@ -1,9 +1,0 @@
-{
-  "private": true,
-  "dependencies": {
-    "servehere": "^1.7.0"
-  },
-  "scripts": {
-	"serve": "npx servehere -c",
-  }
-}
